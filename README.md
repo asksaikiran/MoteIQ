@@ -1,6 +1,6 @@
-# motelQ
+# MoteIQ
 
-`motelQ` is a hands-on data engineering portfolio project for learning how to design,
+`MoteIQ` is a hands-on data engineering portfolio project for learning how to design,
 build, test, and document a small analytics pipeline.
 
 ## Project Idea
@@ -30,7 +30,7 @@ This project is designed to build the core muscles of a data engineer:
 ## Repo Structure
 
 ```text
-motelQ/
+MoteIQ/
   data/
     raw/          # Original input files, usually not committed
     processed/    # Cleaned or transformed local outputs, usually not committed
